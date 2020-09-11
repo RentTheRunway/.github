@@ -1,0 +1,5 @@
+{
+  "name": "woke",
+  "description": "GitHub Action for running woke on PRs to ensure language-conscious code changes.",
+  "iconName": "woke"
+}
